@@ -2,6 +2,12 @@
 
 ## This is the first version of a plugin to help validate Sketch designs against a design system.
 
+*Copy of repository from my old [github](https://github.com/oneuxco) account which I lost access to.*
+
+### Updates 2020
+
+Since I have moved to Figma for most of my design work, I am no longer maintaining this plugin. I will continue to look at developing future plugins for figma.
+
 Currently the plugin has hard-coded font family, font size, and line height properties to test. Future release will have an option to import text styles from a file for validation.
 
 This plugin can be great to enable teams to check sketch file consistency and enable agencies that may be working with you to double their sketch files.
@@ -48,5 +54,3 @@ This plugin can be great to enable teams to check sketch file consistency and en
 ## Creators Note
 
 I am not the most proficient in JS, and the Sketch APIs are not the most understandable in the world. If you know of a better algorithm do let me know ✌️
-
-Updates soon!
